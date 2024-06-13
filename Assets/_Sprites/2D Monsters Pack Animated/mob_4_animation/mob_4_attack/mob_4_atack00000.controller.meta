@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: cb2f93d46cef61f4195e072251f6c699
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190904
+  packageName: 2D Monsters Pack Animated
+  packageVersion: 1.0
+  assetPath: Assets/2D Monsters Pack Animated/mob_4_animation/mob_4_attack/mob_4_atack00000.controller
+  uploadId: 421441

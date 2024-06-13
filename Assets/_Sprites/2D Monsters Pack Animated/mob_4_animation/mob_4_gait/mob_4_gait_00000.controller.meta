@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 12c554763b20ee44b8cb25cc59050e2f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 190904
+  packageName: 2D Monsters Pack Animated
+  packageVersion: 1.0
+  assetPath: Assets/2D Monsters Pack Animated/mob_4_animation/mob_4_gait/mob_4_gait_00000.controller
+  uploadId: 421441
